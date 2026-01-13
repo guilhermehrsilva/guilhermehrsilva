@@ -1,7 +1,7 @@
 # Olá, eu sou Guilherme Risson! 👋
 
 ## 🚀 Sobre Mim
-Sou um Engenheiro Civil apaixonado por tecnologia e dados, com foco em **Business Intelligence**, **Engenharia de Dados** e **Inteligência Artificial**. 
+Sou um Engenheiro Civil apaixonado por tecnologia e dados, com foco em **Business Intelligence**, **Engenharia de Dados** e **Inteligência Artificial**.
 
 Minha trajetória combina a visão analítica da engenharia com habilidades técnicas em desenvolvimento para resolver problemas de negócios complexos. Tenho experiência em automatizar processos, criar dashboards estratégicos e desenvolver soluções com **GenAI**.
 
