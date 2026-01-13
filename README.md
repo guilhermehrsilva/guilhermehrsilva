@@ -52,8 +52,8 @@ Automatização de fluxo de caixa e gestão de ativos para PF e PJ.
 
 <div align="center">
   <a href="https://github.com/SEU-USUARIO-GITHUB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermehrsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehrsilva&layout=compact&theme=dracula"/>
   </a>
 </div>
 
