@@ -55,6 +55,7 @@ Desenvolvi um assistente virtual para democratizar o acesso a informações fina
 - **Impacto:** Responde dúvidas sobre investimentos e reestruturação de dívidas com assertividade.
 
 🎙️ **[Voice Assistant com Whisper & GPT](https://github.com/guilhermehrsilva/voice-assistant-whisper-gpt)**
+
 Assistente virtual conversacional que integra reconhecimento de fala de alta fidelidade com inteligência gerativa.
 - **Tech:** Python, OpenAI Whisper, GPT-4, Text-to-Speech.
 - **Impacto:** Interação natural "hands-free" com transcrição precisa e respostas contextuais inteligentes.
