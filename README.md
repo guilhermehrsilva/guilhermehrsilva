@@ -34,6 +34,19 @@ Minha caixa de ferramentas técnica inclui linguagens de programação, banco de
 
 ---
 
+## ⚡ Status e Atividade
+
+Aqui acompanho o alcance do meu perfil e meu foco atual.
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=guilhermehrsilva&label=Visualizações+do+Perfil&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Foco_Atual-GenAI_%26_Dados-3670A0?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Localização-Brasil_(GMT--3)-009c3b?style=for-the-badge&logo=google-maps&logoColor=white" />
+</div>
+
+---
+
 ## 🏆 Projetos em Destaque
 
 ### 🤖 [Chatbot Financeiro com GenAI]
@@ -45,17 +58,6 @@ Desenvolvi um assistente virtual para democratizar o acesso a informações fina
 Automatização de fluxo de caixa e gestão de ativos para PF e PJ.
 - **Tech:** Excel Avançado, Power Query, DAX.
 - **Impacto:** Redução do tempo de fechamento mensal e eliminação de falhas manuais.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/guilhermehrsilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermehrsilva&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehrsilva&layout=compact&theme=dracula"/>
-  </a>
-</div>
 
 ---
 
