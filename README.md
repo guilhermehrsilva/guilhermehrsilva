@@ -49,7 +49,7 @@ Aqui acompanho o alcance do meu perfil e meu foco atual.
 
 ## 🏆 Projetos em Destaque
 
-### 🤖 [Chatbot Financeiro com GenAI]
+### 🤖 [Chatbot Financeiro com GenAI] (https://github.com/guilhermehrsilva/dio-lab-bia-do-futuro)
 Desenvolvi um assistente virtual para democratizar o acesso a informações financeiras.
 - **Tech:** Python, OpenAI API, SQL.
 - **Impacto:** Responde dúvidas sobre investimentos e reestruturação de dívidas com assertividade.
