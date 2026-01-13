@@ -24,10 +24,6 @@ Minha caixa de ferramentas técnica inclui linguagens de programação, banco de
 ### BI & Visualização
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehrsilva&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Linguagens mais usadas" />
-</div>
-
 ### Outras Ferramentas & Soft Skills
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
