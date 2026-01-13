@@ -54,10 +54,10 @@ Desenvolvi um assistente virtual para democratizar o acesso a informações fina
 - **Tech:** Python, OpenAI API, SQL.
 - **Impacto:** Responde dúvidas sobre investimentos e reestruturação de dívidas com assertividade.
 
-### 📊 [Dashboard Financeiro Automatizado]
-Automatização de fluxo de caixa e gestão de ativos para PF e PJ.
-- **Tech:** Excel Avançado, Power Query, DAX.
-- **Impacto:** Redução do tempo de fechamento mensal e eliminação de falhas manuais.
+🎙️ **[Voice Assistant com Whisper & GPT](https://github.com/guilhermehrsilva/voice-assistant-whisper-gpt)**
+Assistente virtual conversacional que integra reconhecimento de fala de alta fidelidade com inteligência gerativa.
+- **Tech:** Python, OpenAI Whisper, GPT-4, Text-to-Speech.
+- **Impacto:** Interação natural "hands-free" com transcrição precisa e respostas contextuais inteligentes.
 
 ---
 
