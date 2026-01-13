@@ -25,13 +25,13 @@ Minha caixa de ferramentas técnica inclui linguagens de programação, banco de
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehrsilva&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehrsilva&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Langs" />
 
   <br/><br/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermehrsilva&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermehrsilva&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermehrsilva&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="General Stats" />
+
+  <img height="180em" src="https://streak-stats.demolab.com?user=guilhermehrsilva&theme=dracula&hide_border=true" alt="Streak Stats" />
 </div>
 
 ### Outras Ferramentas & Soft Skills
