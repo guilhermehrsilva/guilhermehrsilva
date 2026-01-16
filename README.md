@@ -10,11 +10,13 @@ Minha trajetória combina a visão analítica da engenharia com habilidades téc
 - 🎓 Formado em **Engenharia Civil** (FAI) e Técnico em **Administração**.
 - 🎯 Busco oportunidades onde possa unir **Engenharia, Dados e Estratégia**.
 
+---
+
 <div align="center">
   <h3>🚀 Meu Projeto Mais Recente</h3>
 
-  <a href="[https://github.com/guilhermehrsilva/NOME-DO-REPOSITORIO](https://github.com/guilhermehrsilva/Projeto-RH-Atlas)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermehrsilva&repo=NOME-DO-REPOSITORIO&theme=transparent&bg_color=000000&title_color=00bfff&text_color=ffffff&icon_color=00bfff&border_radius=10&border_color=00bfff" alt="Readme Card" />
+  <a href="https://github.com/guilhermehrsilva/Projeto-RH-Atlas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermehrsilva&repo=Projeto-RH-Atlas&theme=transparent&bg_color=000000&title_color=00bfff&text_color=ffffff&icon_color=00bfff&border_radius=10&border_color=00bfff" alt="Projeto RH Atlas" />
   </a>
 </div>
 
