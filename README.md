@@ -14,10 +14,10 @@ Minha trajetória combina a visão analítica da engenharia com habilidades téc
 
 <div align="center">
   <h3>🚀 Meu Projeto Mais Recente</h3>
+  
+   [Dashboard Preview](Dashboard/Projeto-03-Logistica-OTIF.pdf)
+*(Nota: Visualize o PDF para ver o layout final em alta resolução)*
 
-  <a href="[https://github.com/guilhermehrsilva/Projeto-RH-Atlas](https://github.com/guilhermehrsilva/Logistica-OTIF)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermehrsilva&repo=Logistica-OTIF&theme=transparent&bg_color=000000&title_color=00bfff&text_color=ffffff&icon_color=00bfff&border_radius=10&border_color=00bfff" alt="Logistica-OTIF" />
-  </a>
 </div>
 
 ---
