@@ -12,6 +12,12 @@ Minha trajetória combina a visão analítica da engenharia com habilidades téc
 
 ---
 
+### 🚀 Meu Último Repositório
+<!-- LAST_REPO:START -->
+<!-- O repositório aparecerá aqui automaticamente -->
+<!-- LAST_REPO:END -->
+
+
 <div align="center">
   <h3>🚀 Meu Projeto Mais Recente</h3>
   
