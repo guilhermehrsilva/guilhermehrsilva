@@ -10,7 +10,7 @@ Trabalho principalmente com **SQL, Python, Power BI e AWS**, explorando dados de
 ## 💼 Portfólio
 
 ### 🚀 Último Repositório Criado
-[![Último Repositório](https://img.shields.io/badge/dynamic/json?color=0D6EFD&label=Repo&query=%24%5B0%5D.name&url=https://api.github.com/users/guilhermehrsilva/repos?sort=created&direction=desc)]([https://github.com/guilhermehrsilva](https://github.com/guilhermehrsilva/Logistica-OTIF))
+[![Último Repositório](https://img.shields.io/badge/dynamic/json?color=0D6EFD&label=Repo&query=%24%5B0%5D.name&url=https://api.github.com/users/guilhermehrsilva/repos?sort=created&direction=desc)](https://github.com/guilhermehrsilva/Logistica-OTIF)
 
 ---
 
