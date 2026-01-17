@@ -1,92 +1,60 @@
-# Olá, eu sou Guilherme Risson! 👋
+# Guilherme Risson 👋  
+### 📊 Analista de Dados & Business Intelligence
 
-## 🚀 Sobre Mim
-Sou um Engenheiro Civil apaixonado por tecnologia e dados, com foco em **Business Intelligence**, **Engenharia de Dados** e **Inteligência Artificial**.
+Sou Analista de Dados e BI com foco em **transformar dados em insights acionáveis**, criando **dashboards estratégicos**, análises orientadas a negócio e soluções baseadas em dados para apoio à tomada de decisão.
 
-Minha trajetória combina a visão analítica da engenharia com habilidades técnicas em desenvolvimento para resolver problemas de negócios complexos. Tenho experiência em automatizar processos, criar dashboards estratégicos e desenvolver soluções com **GenAI**.
-
-- 🔭 Atualmente estou focado em projetos de **GenAI** e **Análise de Dados**.
-- 💡 Recentemente desenvolvi um **Chatbot Financeiro** usando Python e OpenAI API.
-- 🎓 Formado em **Engenharia Civil** (FAI) e Técnico em **Administração**.
-- 🎯 Busco oportunidades onde possa unir **Engenharia, Dados e Estratégia**.
+Trabalho principalmente com **SQL, Python, Power BI e AWS**, explorando dados de diferentes áreas como logística, RH, vendas e operações.
 
 ---
 
-### 🚀 Meu Último Repositório
-<!-- LAST_REPO:START -->
-<!-- O repositório aparecerá aqui automaticamente -->
-<!-- LAST_REPO:END -->
+## 💼 Portfólio
 
-
-<div align="center">
-  <h3>🚀 Meu Projeto Mais Recente</h3>
-  
-   [Dashboard Preview](Dashboard/Projeto-03-Logistica-OTIF.pdf)
-*(Nota: Visualize o PDF para ver o layout final em alta resolução)*
-
-</div>
+### 🚀 Último Repositório Criado
+[![Último Repositório](https://img.shields.io/badge/dynamic/json?color=0D6EFD&label=Repo&query=%24%5B0%5D.name&url=https://api.github.com/users/guilhermehrsilva/repos?sort=created&direction=desc)](https://github.com/guilhermehrsilva)
 
 ---
 
-## 🛠️ Tech Stack & Habilidades
+### 📊 Projetos em Destaque
 
-Minha caixa de ferramentas técnica inclui linguagens de programação, banco de dados e ferramentas de visualização focadas em negócio.
+| Projeto | Descrição | Tecnologias |
+|-------|-----------|-------------|
+| **Logistica-OTIF** | Análise de performance logística com foco em indicadores OTIF (On-Time In-Full), permitindo avaliar nível de serviço e gargalos operacionais. | `SQL` · `Python` · `Power BI` |
+| **Projeto-RH-Atlas** | Análise de dados aplicada a RH, explorando indicadores como turnover, absenteísmo e performance, com visualizações claras para apoio à gestão. | `Python` · `SQL` · `Power BI` |
+| **Projeto-Global-Superstore** | Análise exploratória e visual de dados de vendas globais, identificando tendências, regiões mais rentáveis e categorias estratégicas. | `Power BI` · `Excel` · `SQL` |
+| **lab-aws-sagemaker-canvas-estoque-dio** | Projeto experimental utilizando AWS SageMaker Canvas para previsão e análise de estoque, explorando conceitos de machine learning aplicado ao negócio. | `AWS` · `SageMaker` · `ML` |
+| **estudos-economia-notebooklm** | Notebooks voltados a estudos de economia, análise de dados e visualização para compreensão de cenários e indicadores econômicos. | `Python` · `Pandas` · `Jupyter` |
+| **voice-assistant-whisper-gpt** | Projeto de processamento de dados de áudio utilizando Whisper e GPT, com foco em NLP e automação de análises. | `Python` · `Whisper` · `AI` |
 
-### Linguagens e Dados
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### BI & Visualização
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Outras Ferramentas & Soft Skills
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-* **IA & Machine Learning:** Engenharia de Prompt, GenAI.
-* **Negócios:** Product Management, Raciocínio Analítico, Visão Sistêmica.
+> ℹ️ Alguns repositórios incluem **forks educacionais**, utilizados como base para aprendizado prático e extensão de conhecimento em BI, cloud e analytics.
 
 ---
 
-## ⚡ Status e Atividade
+### 🛠️ Tecnologias & Ferramentas
 
-Aqui acompanho o alcance do meu perfil e meu foco atual.
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=guilhermehrsilva&label=Visualizações+do+Perfil&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Foco_Atual-GenAI_%26_Dados-3670A0?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Localização-Brasil_(GMT--3)-009c3b?style=for-the-badge&logo=google-maps&logoColor=white" />
-</div>
-
----
-
-## 🏆 Projetos em Destaque
-
-### 🤖 [Chatbot Financeiro com GenAI](https://github.com/guilhermehrsilva/dio-lab-bia-do-futuro)
-Desenvolvi um assistente virtual para democratizar o acesso a informações financeiras.
-- **Tech:** Python, OpenAI API, SQL.
-- **Impacto:** Responde dúvidas sobre investimentos e reestruturação de dívidas com assertividade.
-
-🎙️ **[Voice Assistant com Whisper & GPT](https://github.com/guilhermehrsilva/voice-assistant-whisper-gpt)**
-
-Assistente virtual conversacional que integra reconhecimento de fala de alta fidelidade com inteligência gerativa.
-- **Tech:** Python, OpenAI Whisper, GPT-4, Text-to-Speech.
-- **Impacto:** Interação natural "hands-free" com transcrição precisa e respostas contextuais inteligentes.
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00)
+![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
 
 ---
 
-## 🔗 Vamos conversar?
+### 🧠 Stack Técnica — Distribuição por Repositório
 
-Estou sempre aberto a novas conexões e oportunidades para colaborar em projetos inovadores.
+A visualização abaixo representa a **proporção das tecnologias utilizadas** nos meus projetos de dados, BI e analytics, com foco em análise, visualização e automação.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/guilhermerisson" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:guilherme.risson@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
+![Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehrsilva&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+### 📫 Contato
+
+- GitHub: https://github.com/guilhermehrsilva  
+- LinkedIn: https://www.linkedin.com/in/guilhermerisson  
+- Email: _guilherme.risson@outlook.com_
+
+---
+
+⭐ Fique à vontade para explorar os projetos e deixar uma estrela se algum deles for útil!
