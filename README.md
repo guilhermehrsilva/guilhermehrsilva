@@ -41,13 +41,11 @@ Trabalho principalmente com **SQL, Python, Power BI e AWS**, explorando dados de
 
 ---
 
-### 🧠 Stack Técnica — Distribuição por Repositório
+### 🧠 Stack Técnica — Distribuição de Uso
 
-A visualização abaixo representa a **proporção das tecnologias utilizadas** nos meus projetos de dados, BI e analytics, com foco em análise, visualização e automação.
+A visualização abaixo representa a **proporção das tecnologias utilizadas** nos meus repositórios públicos, com foco em **Análise de Dados, Business Intelligence e Analytics**.
 
-![Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehrsilva&layout=compact&theme=transparent&hide_border=true)
-
----
+![Stack Técnica](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehrsilva&layout=compact&hide_border=true)
 
 ### 📫 Contato
 
