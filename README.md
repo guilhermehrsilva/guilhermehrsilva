@@ -11,7 +11,7 @@ Trabalho principalmente com **SQL, Python, Power BI e AWS**, explorando dados de
 
 ### 🚀 Último Projeto Criado
 
-![Dashboard](https://github.com/guilhermehrsilva/Dashboard-Olist-Vendas/blob/main/dashboard/dashboard_preview_page_1.jpg)
+![Dashboard](https://github.com/guilhermehrsilva/Dashboard-automacao-ML/blob/main/dashboard/Dashboard.jpg)
 
 ---
 
@@ -19,6 +19,7 @@ Trabalho principalmente com **SQL, Python, Power BI e AWS**, explorando dados de
 
 | Projeto | Descrição | Tecnologias |
 |-------|-----------|-------------|
+| **Dashboard-automacao-ML** | Análise automática e visual de dados de preço no Mercado Livre, com foco em automação e praticidade para análises do histórico de preço. | Power BI · Python · Excel |
 | **Dashboard-Olist-Vendas** | Análise exploratória e visual de dados de vendas do e-commerce Olist Brasil, com foco em segmentação de clientes, indicadores de fidelidade, ticket médio e faturamento por grupo, apoiando decisões estratégicas de negócio. | Power BI · SQL · Excel |
 | **Logistica-OTIF** | Análise de performance logística com foco em indicadores OTIF (On-Time In-Full), permitindo avaliar nível de serviço e gargalos operacionais. | `SQL` · `Python` · `Power BI` |
 | **Projeto-RH-Atlas** | Análise de dados aplicada a RH, explorando indicadores como turnover, absenteísmo e performance, com visualizações claras para apoio à gestão. | `Python` · `SQL` · `Power BI` |
