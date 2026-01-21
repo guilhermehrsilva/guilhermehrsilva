@@ -9,7 +9,7 @@ Trabalho principalmente com **SQL, Python, Power BI e AWS**, explorando dados de
 
 ## 💼 Portfólio
 
-### 🚀 Último Repositório Criado
+### 🚀 Último Projeto Criado
 
 ![Dashboard](https://github.com/guilhermehrsilva/Dashboard-Olist-Vendas/blob/main/dashboard/dashboard_preview_page_1.jpg)
 
