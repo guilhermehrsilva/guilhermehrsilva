@@ -19,6 +19,7 @@ Trabalho principalmente com **SQL, Python, Power BI e AWS**, explorando dados de
 
 | Projeto | Descrição | Tecnologias |
 |-------|-----------|-------------|
+| **Dashboard-Olist-Vendas** | Análise exploratória e visual de dados de vendas do e-commerce Olist Brasil, com foco em segmentação de clientes, indicadores de fidelidade, ticket médio e faturamento por grupo, apoiando decisões estratégicas de negócio. | Power BI · SQL · Excel |
 | **Logistica-OTIF** | Análise de performance logística com foco em indicadores OTIF (On-Time In-Full), permitindo avaliar nível de serviço e gargalos operacionais. | `SQL` · `Python` · `Power BI` |
 | **Projeto-RH-Atlas** | Análise de dados aplicada a RH, explorando indicadores como turnover, absenteísmo e performance, com visualizações claras para apoio à gestão. | `Python` · `SQL` · `Power BI` |
 | **Projeto-Global-Superstore** | Análise exploratória e visual de dados de vendas globais, identificando tendências, regiões mais rentáveis e categorias estratégicas. | `Power BI` · `Excel` · `SQL` |
