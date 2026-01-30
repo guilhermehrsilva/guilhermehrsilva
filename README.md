@@ -55,14 +55,13 @@ I specialize in building dashboards, automating insights, and applying AI to cre
   >
 </p>
 
-
 ✔ Developed in Python for end-to-end data analysis workflows  
 ✔ Uses AI to generate automated business insights  
 ✔ Responsive visual dashboards with key metrics  
 ✔ Designed for real business use cases
 
 📍 **Repository:** https://github.com/guilhermehrsilva/DataInsightAI  
-🗓 Updated: Jan 30, 2026 :contentReference[oaicite:1]{index=1}
+🗓 Updated: Jan 30, 2026
 
 <img src="https://raw.githubusercontent.com/guilhermehrsilva/assets/main/datainsight-preview.gif" alt="DataInsightAI Animation" />
 
