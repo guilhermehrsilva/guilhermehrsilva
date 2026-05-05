@@ -1,6 +1,6 @@
 # Olá, seja bem vindo(a) no meu GitHub!
 
-**Eu sou Guilherme Risson, atualmente Analista de Dados & Futuramente Cientista de Dados**
+**Eu sou Guilherme Risson, atualmente Analista de Dados & Futuramente Cientista de Dados!**
 
 Sou um profissional de dados apaixonado por transformar informações complexas em inteligência de negócios. Com uma sólida fundamentação matemática advinda da engenharia, aplico rigor analítico na construção de modelos preditivos, análises estatísticas avançadas e automação de pipelines de dados.
 
