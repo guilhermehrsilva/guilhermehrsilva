@@ -49,11 +49,17 @@ Atualmente, atuo como **Analista de Dados Pleno** e estou em transição focada 
 
 ---
 
-### 📈 Estatísticas do GitHub
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=guilhermehrsilva&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehrsilva&layout=compact&theme=radium"/>
-</div>
+### ⚡ Meu Radar de Foco Atual
+
+Aqui está como divido meu tempo e energia hoje para lapidar meus conhecimentos:
+
+📊 **Análise & Visualização de Dados** ▰▰▰▰▰▰▰▰▰▰ 100% *(Uso diário)*
+
+🧮 **Lógica & Matemática (Engenharia)** ▰▰▰▰▰▰▰▰▰▰ 100% *(Base consolidada)*
+
+🤖 **Machine Learning & Ciência de Dados** ▰▰▰▰▰▰▰▱▱▱ 70% *(Aprofundando)*
+
+⚙️ **Engenharia de Dados (Pipelines/ETL)** ▰▰▰▰▰▰▱▱▱▱ 60% *(Aprimorando)*
 
 ---
 
