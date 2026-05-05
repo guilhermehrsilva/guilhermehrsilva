@@ -20,7 +20,6 @@ Atualmente, atuo como **Analista de Dados Pleno** e estou em transição focada 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
 **Data Engineering & Visualização:**
 ![Fivetran](https://img.shields.io/badge/Fivetran-0052FF?style=for-the-badge&logo=fivetran&logoColor=white)
