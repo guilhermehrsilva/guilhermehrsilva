@@ -1,5 +1,3 @@
-<h1 align="center">Welcome to my LAB!!!</h1>
-
 <h3 align="center">
 Desenvolvedor e estudante de Data Science focado em transformar dados em soluções práticas.
 </h3>
