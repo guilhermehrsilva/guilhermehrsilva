@@ -118,7 +118,7 @@ A proposta desse repositório é construir projetos progressivamente mais robust
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://www.linkedin.com/guilhermerisson" target="blank">
+<a href="https://www.linkedin.com/in/guilhermerisson" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 </p>
