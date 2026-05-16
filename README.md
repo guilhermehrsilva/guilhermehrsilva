@@ -99,18 +99,6 @@ A proposta desse repositório é construir projetos progressivamente mais robust
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermehrsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehrsilva&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 📫 Contato
 
 <p>
@@ -122,9 +110,3 @@ A proposta desse repositório é construir projetos progressivamente mais robust
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 </p>
-
----
-
-## 🎯 Objetivo
-
-Construir experiência sólida em Data Science através de projetos práticos e aplicações reais, evoluindo continuamente em análise de dados, Machine Learning e engenharia de soluções orientadas a dados.
