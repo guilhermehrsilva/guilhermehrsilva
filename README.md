@@ -1,68 +1,130 @@
-# Olá, seja bem vindo(a) no meu GitHub!
+<h1 align="center">Olá, bem vindo ao meu repositório!!!</h1>
 
-**Eu sou Guilherme Risson, atualmente Analista de Dados & Futuramente Cientista de Dados!**
-
-Sou um profissional de dados apaixonado por transformar informações complexas em inteligência de negócios. Com uma sólida fundamentação matemática advinda da engenharia, aplico rigor analítico na construção de modelos preditivos, análises estatísticas avançadas e automação de pipelines de dados.
-
-Atualmente, atuo como **Analista de Dados Pleno** e estou em transição focada para a **Ciência de Dados**. Dedico meu tempo ao aprofundamento prático em Machine Learning, resolvendo problemas de negócio reais e explorando novas abordagens em ambientes de Big Data.
+<h3 align="center">
+Desenvolvedor e estudante de Data Science focado em transformar dados em soluções práticas.
+</h3>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🚀 Sobre mim
 
-**Linguagens & Bancos de Dados:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+🎯 Atualmente direcionando meus estudos e projetos para:
 
-**Data Science, Estatística & Machine Learning:**
-![JupyterLab](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- 📊 Data Science
+- 🤖 Machine Learning
+- 📈 Data Analytics
+- 🧠 Inteligência Artificial
+- 🐍 Desenvolvimento com Python
+- 🗄️ SQL e bancos de dados
 
-**Data Engineering & Visualização:**
-![Fivetran](https://img.shields.io/badge/Fivetran-0052FF?style=for-the-badge&logo=fivetran&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-**Versionamento & Ferramentas:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Antigravity](https://img.shields.io/badge/ANTIGRAVITY-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+Tenho interesse em construir soluções aplicadas a problemas reais, utilizando dados para gerar insights, previsões e automações em diferentes áreas de negócio.
 
 ---
 
-### 📂 Projetos em Destaque
+## 📚 Atualmente estudando
 
-* 🛒 **[De Dados Brutos à Estratégia de CRM: Análise RFM com SQL](#)**: Processo backend utilizando MySQL e VS Code para modelar uma base do e-commerce Olist, aplicando queries avançadas (CTEs e Window Functions) para calcular o score RFM diretamente no banco.
-* 📦 **[Supply Chain Analytics: Otimização de DTI e Prazos de Entrega](#)**: Desenvolvimento de uma pipeline de dados do zero e criação de dashboards em Power BI para analisar indicadores logísticos.
-* 👥 **[Dashboard de People Analytics](#)**: Construção de um dashboard completo focado em indicadores estratégicos de Recursos Humanos para suporte à gestão.
-
-
----
-
-### 🎓 Formação Acadêmica
-* **Pós-graduação em Ciência de Dados** - UniCesumar (2026 - 2027)
-* **Bacharelado em Engenharia Civil** - FAI (2021 - 2025)
+- Machine Learning
+- Estatística aplicada
+- Engenharia de Features
+- Modelagem preditiva
+- Visualização de dados
+- Pipelines de dados
+- APIs e automações
+- Deep Learning
 
 ---
 
-### ⚡ Meu Radar de Foco Atual
+## 🛠️ Tecnologias e Ferramentas
 
-Aqui está como divido meu tempo e energia hoje para lapidar meus conhecimentos:
+### 👨‍💻 Linguagens
 
-📊 **Análise & Visualização de Dados** ▰▰▰▰▰▰▰▰▰▰ 100% *(Uso diário)*
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,sql" />
+</p>
 
-🧮 **Lógica & Matemática (Engenharia)** ▰▰▰▰▰▰▰▰▰▰ 100% *(Base consolidada)*
+### 📊 Data Science & Analytics
 
-🤖 **Machine Learning & Ciência de Dados** ▰▰▰▰▰▰▰▱▱▱ 70% *(Aprofundando)*
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
-⚙️ **Engenharia de Dados (Pipelines/ETL)** ▰▰▰▰▰▰▱▱▱▱ 60% *(Aprimorando)*
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+- Plotly
+- Jupyter Notebook
+
+### ⚙️ Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postgres,mysql" />
+</p>
 
 ---
 
-### 📫 Como me encontrar
+# 🚀 Meu Laboratório de Data Science
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilhermerisson)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.risson@outlook.com)
+Atualmente concentro meus estudos práticos e experimentações no repositório abaixo:
+
+## 📊 Personal Data Science Projects
+
+➡️ <a href="https://github.com/guilhermehrsilva/personal_projects">personal_projects</a>
+
+Este é meu principal ambiente de desenvolvimento para projetos aplicados de Data Science, onde exploro problemas reais de diferentes mercados e áreas de negócio.
+
+### 🌎 Áreas exploradas
+
+- 💰 Finanças
+- 🏥 Saúde
+- 🛒 Varejo
+- ⚽ Esportes
+- 🚚 Logística
+- 📈 Marketing
+- 🤖 Inteligência Artificial
+
+### 🧠 Principais temas dos projetos
+
+- Análise Exploratória de Dados (EDA)
+- Machine Learning
+- Modelagem Preditiva
+- Engenharia de Features
+- Visualização de Dados
+- Estatística Aplicada
+- Pipelines de Dados
+- Storytelling com Dados
+
+A proposta desse repositório é construir projetos progressivamente mais robustos, simulando desafios reais encontrados no mercado de dados.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermehrsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehrsilva&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<p>
+<a href="https://github.com/guilhermehrsilva" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://www.linkedin.com/guilhermerisson" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Construir experiência sólida em Data Science através de projetos práticos e aplicações reais, evoluindo continuamente em análise de dados, Machine Learning e engenharia de soluções orientadas a dados.
