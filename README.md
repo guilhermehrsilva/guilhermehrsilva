@@ -39,7 +39,6 @@ Atualmente, atuo como **Analista de Dados Pleno** e estou em transição focada 
 * 📦 **[Supply Chain Analytics: Otimização de DTI e Prazos de Entrega](#)**: Desenvolvimento de uma pipeline de dados do zero e criação de dashboards em Power BI para analisar indicadores logísticos.
 * 👥 **[Dashboard de People Analytics](#)**: Construção de um dashboard completo focado em indicadores estratégicos de Recursos Humanos para suporte à gestão.
 
-*(Em breve: Projetos de Machine Learning e Análises Estatísticas em R)*
 
 ---
 
