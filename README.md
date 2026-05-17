@@ -1,5 +1,5 @@
 <h3 align="center">
-Desenvolvedor e estudante de Data Science focado em transformar dados em soluções práticas.
+Data Scientist focado em transformar dados em soluções práticas.
 </h3>
 
 ---
