@@ -1,110 +1,74 @@
-<h3 align="center">
-Data Scientist focado em transformar dados em soluções práticas.
-</h3>
+# Olá, eu sou Guilherme Risson
+
+Sou profissional de Dados com foco em **Ciência de Dados aplicada a problemas reais de negócio**, combinando Python, SQL, Machine Learning, Power BI e Analytics Engineering.
+
+Atualmente atuo com soluções analíticas para planejamento acadêmico, envolvendo integração de múltiplas bases corporativas, validação da qualidade dos dados, desenvolvimento de indicadores estratégicos e construção de modelos preditivos.
+
+Tenho interesse em oportunidades como **Cientista de Dados Jr / Cientista de Dados I**, especialmente em times que utilizam dados para resolver problemas de negócio, construir modelos preditivos, gerar insights acionáveis e apoiar a tomada de decisão.
 
 ---
 
-## 🚀 Sobre mim
+## Principais Competências
 
-🎯 Atualmente direcionando meus estudos e projetos para:
-
-- 📊 Data Science
-- 🤖 Machine Learning
-- 📈 Data Analytics
-- 🧠 Inteligência Artificial
-- 🐍 Desenvolvimento com Python
-- 🗄️ SQL e bancos de dados
-
-Tenho interesse em construir soluções aplicadas a problemas reais, utilizando dados para gerar insights, previsões e automações em diferentes áreas de negócio.
+* **Linguagens:** Python, SQL
+* **Data Science:** Machine Learning, Modelagem Preditiva, Análise Exploratória de Dados, Validação de Modelos
+* **Bibliotecas:** Pandas, NumPy, Scikit-Learn, LightGBM
+* **BI e Visualização:** Power BI, DAX, Dashboards, Indicadores Estratégicos
+* **Engenharia e Deploy:** Git, Docker, FastAPI, Pipelines Analíticos
+* **Negócio:** Levantamento de Requisitos, Documentação Técnica, Comunicação Executiva, Storytelling com Dados
 
 ---
 
-## 📚 Atualmente estudando
+## Projeto em Destaque
 
-- Machine Learning
-- Estatística aplicada
-- Engenharia de Features
-- Modelagem preditiva
-- Visualização de dados
-- Pipelines de dados
-- APIs e automações
-- Deep Learning
+### Lead Scoring B2B — Machine Learning para Priorização Comercial
 
----
+Projeto end-to-end de Ciência de Dados para estimar a probabilidade de conversão de leads comerciais e apoiar a priorização do time de vendas.
 
-## 🛠️ Tecnologias e Ferramentas
+**Tecnologias utilizadas:** Python, Pandas, Scikit-Learn, LightGBM, FastAPI e Docker.
 
-### 👨‍💻 Linguagens
+**Principais entregas:**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,sql" />
-</p>
+* Análise exploratória dos dados;
+* Tratamento e preparação das variáveis;
+* Treinamento de modelo de classificação;
+* Avaliação de performance com AUC aproximada de 0,83;
+* Geração de score de conversão;
+* Estruturação de pipeline de inferência;
+* Disponibilização do modelo por API;
+* Containerização com Docker.
 
-### 📊 Data Science & Analytics
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-- Seaborn
-- Plotly
-- Jupyter Notebook
-
-### ⚙️ Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postgres,mysql" />
-</p>
+Acesse o projeto: [Lead Scoring B2B](https://github.com/guilhermehrsilva/lead-scoring-b2b-mlops)
 
 ---
 
-# 🚀 Meu Laboratório de Data Science
+## Projetos e Estudos
 
-Atualmente concentro meus estudos práticos e experimentações no repositório abaixo:
+Além do projeto de Lead Scoring, também desenvolvo projetos aplicados em:
 
-## 📊 Personal Data Science Projects
-
-➡️ <a href="https://github.com/guilhermehrsilva/personal_projects">personal_projects</a>
-
-Este é meu principal ambiente de desenvolvimento para projetos aplicados de Data Science, onde exploro problemas reais de diferentes mercados e áreas de negócio.
-
-### 🌎 Áreas exploradas
-
-- 💰 Finanças
-- 🏥 Saúde
-- 🛒 Varejo
-- ⚽ Esportes
-- 🚚 Logística
-- 📈 Marketing
-- 🤖 Inteligência Artificial
-
-### 🧠 Principais temas dos projetos
-
-- Análise Exploratória de Dados (EDA)
-- Machine Learning
-- Modelagem Preditiva
-- Engenharia de Features
-- Visualização de Dados
-- Estatística Aplicada
-- Pipelines de Dados
-- Storytelling com Dados
-
-A proposta desse repositório é construir projetos progressivamente mais robustos, simulando desafios reais encontrados no mercado de dados.
+* Modelagem preditiva;
+* Analytics Engineering;
+* Business Intelligence;
+* Automação de análises;
+* Validação e qualidade de dados;
+* Dashboards executivos;
+* Soluções analíticas para tomada de decisão.
 
 ---
 
-## 📫 Contato
+## Atualmente estudando
 
-<p>
-<a href="https://github.com/guilhermehrsilva" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+* Ciência de Dados;
+* Machine Learning aplicado a negócios;
+* MLOps;
+* SQL avançado;
+* Estatística aplicada;
+* Inglês técnico e conversação.
 
-<a href="https://www.linkedin.com/in/guilhermerisson" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-</p>
+---
+
+## Contato
+
+* LinkedIn: [linkedin.com/in/guilhermerisson](https://www.linkedin.com/in/guilhermerisson)
+* GitHub: [github.com/guilhermehrsilva](https://github.com/guilhermehrsilva)
+* E-mail: [guilherme.risson@outlook.com](mailto:guilherme.risson@outlook.com)
