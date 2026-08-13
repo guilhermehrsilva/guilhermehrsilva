@@ -3,13 +3,12 @@
 </h1>
 
 <p align="center">
-  <strong>Data Scientist</strong> &middot; Analytics &middot; BI &middot; ML aplicado a problemas reais de negócio
+  <strong>Data Scientist</strong> &middot; Data Science &middot; Analytics &middot; ML aplicado a problemas reais de negócio
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Science-06152E?style=flat-square&labelColor=06152E&color=06152E" alt="Data Science" />
   <img src="https://img.shields.io/badge/Analytics-123F8F?style=flat-square&labelColor=123F8F&color=123F8F" alt="Analytics" />
-  <img src="https://img.shields.io/badge/BI-FF6A45?style=flat-square&labelColor=FF6A45&color=FF6A45" alt="BI" />
 </p>
 
 ---
