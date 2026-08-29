@@ -3,12 +3,12 @@
 </h1>
 
 <p align="center">
-  <strong>Data Scientist</strong> &middot; Data Science &middot; Analytics &middot; ML aplicado a problemas reais de negócio
+  <strong>AI Engineer</strong> &middot; RAG e avaliação &middot; sistemas de ML em produção &middot; contratos de dados
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Science-06152E?style=flat-square&labelColor=06152E&color=06152E" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Analytics-123F8F?style=flat-square&labelColor=123F8F&color=123F8F" alt="Analytics" />
+  <img src="https://img.shields.io/badge/AI_Engineering-06152E?style=flat-square&labelColor=06152E&color=06152E" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/RAG_&_Evaluation-123F8F?style=flat-square&labelColor=123F8F&color=123F8F" alt="RAG and Evaluation" />
 </p>
 
 ---
@@ -17,9 +17,11 @@
 ~/ whoami
 ```
 
-Profissional de dados focado em **Data Science aplicada a problemas reais de negócio** — de modelagem preditiva e deploy de ML a dashboards de BI e sistemas de otimização.
+Construo **os sistemas em volta do modelo** — recuperação, avaliação, serving e os contratos de dados que impedem o sistema de apodrecer em silêncio. O modelo raramente é a parte difícil.
 
-Atualmente construindo soluções analíticas para planejamento acadêmico: integração de dados, validação de qualidade, KPIs estratégicos e modelos preditivos.
+O fio condutor do que está aqui embaixo é medição: um harness que mostra que 80% das perguntas entregam norma revogada ao LLM; um validador que ranqueia defeitos de dados pelo quanto eles movem a decisão; um solver em produção com auditoria por rodada. Sistemas que dizem quando estão errados.
+
+Finalizando pós-graduação em Ciência de Dados e cursando formação em AI Software Engineering.
 
 📍 Maringá, Paraná &middot; Brasil
 
@@ -29,33 +31,34 @@ Atualmente construindo soluções analíticas para planejamento acadêmico: inte
 ~/ cat skills.txt
 ```
 
-**Data Science &amp; ML**
+**AI &amp; LLM**
 <p>
   <img src="https://img.shields.io/badge/Python-06152E?style=flat-square&logo=python&logoColor=FF6A45" />
+  <img src="https://img.shields.io/badge/RAG-06152E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gemini-06152E?style=flat-square&logo=googlegemini&logoColor=FF6A45" />
+  <img src="https://img.shields.io/badge/Sentence--Transformers-06152E?style=flat-square" />
+  <img src="https://img.shields.io/badge/BM25_Hybrid_Retrieval-06152E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Evaluation_Harness-06152E?style=flat-square" />
+</p>
+
+**Backend &amp; Systems**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-123F8F?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-123F8F?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-123F8F?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-123F8F?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-123F8F?style=flat-square&logo=duckdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/OR--Tools_(CP--SAT)-123F8F?style=flat-square" />
+</p>
+
+**Machine Learning**
+<p>
   <img src="https://img.shields.io/badge/Scikit--Learn-06152E?style=flat-square&logo=scikitlearn&logoColor=FF6A45" />
   <img src="https://img.shields.io/badge/LightGBM-06152E?style=flat-square" />
   <img src="https://img.shields.io/badge/XGBoost-06152E?style=flat-square" />
+  <img src="https://img.shields.io/badge/SHAP-06152E?style=flat-square" />
   <img src="https://img.shields.io/badge/Pandas-06152E?style=flat-square&logo=pandas&logoColor=FF6A45" />
-  <img src="https://img.shields.io/badge/NumPy-06152E?style=flat-square&logo=numpy&logoColor=FF6A45" />
-</p>
-
-**BI &amp; Analytics**
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-123F8F?style=flat-square&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-123F8F?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-123F8F?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-123F8F?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-123F8F?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-123F8F?style=flat-square" />
-</p>
-
-**Engineering &amp; Deploy**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-06152E?style=flat-square&logo=fastapi&logoColor=FF6A45" />
-  <img src="https://img.shields.io/badge/Docker-06152E?style=flat-square&logo=docker&logoColor=FF6A45" />
-  <img src="https://img.shields.io/badge/Git-06152E?style=flat-square&logo=git&logoColor=FF6A45" />
-  <img src="https://img.shields.io/badge/OR--Tools_(CP--SAT)-06152E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data_Pipelines-06152E?style=flat-square" />
+  <img src="https://img.shields.io/badge/PyArrow-06152E?style=flat-square" />
 </p>
 
 ---
@@ -64,25 +67,29 @@ Atualmente construindo soluções analíticas para planejamento acadêmico: inte
 ~/ ls projetos/ --featured
 ```
 
-### 🎯 [Lead Scoring B2B — MLOps](https://github.com/guilhermehrsilva/lead-scoring-b2b-mlops)
-Pipeline de ML que pontua leads B2B por probabilidade de conversão (**AUC 0.83**), servido via FastAPI + Docker.
-`LightGBM` · `FastAPI` · `Docker`
-
-### 📊 [Retail Pricing Analytics](https://github.com/guilhermehrsilva/retail-pricing-analytics)
-Previsão de demanda + simulação de cenários de preço em 7.2K transações (**R² 0.84**), com dashboard Streamlit.
-`Scikit-Learn` · `Streamlit` · `SQL`
+### 🔍 [Regulatory RAG Eval](https://github.com/guilhermehrsilva/regulatory-rag-eval)
+Harness de avaliação para RAG sobre 294 normativos do BACEN. **44,6% do corpus está revogado e a recuperação entrega norma morta ao modelo em 80% das perguntas** — e nenhuma métrica de similaridade acusa isso. Recuperação híbrida BM25 + densa, métricas e versionamento de corpus, medidos sem depender de LLM.
+`sentence-transformers` · `rank-bm25` · `Gemini` · `pytest`
 
 ### 🧩 [Teacher Allocation Optimizer](https://github.com/guilhermehrsilva/teacher-allocation-optimizer)
-Sistema full-stack de otimização com programação por restrições CP-SAT — validação, auditoria e dashboard React.
-`OR-Tools` · `FastAPI` · `React`
+Sistema full-stack de otimização com CP-SAT: validação de entrada, dois solvers isolados, auditoria por rodada e dashboard React. Suíte de testes, SBOM e inventário de licenças de terceiros.
+`OR-Tools` · `FastAPI` · `React 19` · `TypeScript`
 
-### 👥 [CLV Segmentation Engine](https://github.com/guilhermehrsilva/clv-segmentation-engine)
-RFM + K-Means + XGBoost para prever o valor do cliente (CLV) sobre 93K+ clientes reais do Olist.
-`XGBoost` · `K-Means` · `Docker`
+### 🩺 [Silent Data Defects](https://github.com/guilhermehrsilva/silent-data-defects)
+Validador que ranqueia defeitos **pelo quanto mudam a decisão**, não por prevalência — e emite o contrato executável que impede o defeito de voltar. 5M × 26 colunas em 5s sobre 261 MB.
+`DuckDB` · `PyArrow` · `CLI empacotada`
 
 ### 🤖 [Data Insight AI](https://github.com/guilhermehrsilva/data-insight-ai)
-Plataforma de BI self-service com Google Gemini — gera KPIs, 30+ tipos de gráfico e responde perguntas em linguagem natural.
-`Gemini AI` · `Streamlit` · `Plotly`
+BI self-service em que o Gemini explora o dataset, recomenda KPIs e responde perguntas de negócio em linguagem natural, com fallback quando a API cai.
+`Gemini` · `Streamlit` · `Plotly`
+
+### 💳 [Credit Risk Decision Engine](https://github.com/guilhermehrsilva/credit-risk-decision-engine)
+Separa prever de decidir: modelo de PD mais uma camada econômica que escolhe o corte por lucro esperado. **+24% de resultado sobre o threshold 0,50 — mesmo modelo, mesma AUC.**
+`LightGBM` · `SHAP` · `Streamlit`
+
+### 🚨 [Fraud Triage Under Capacity](https://github.com/guilhermehrsilva/fraud-triage-under-capacity)
+Auditoria do PaySim: **uma regra de duas linhas pega 97,70% das fraudes sem modelo nenhum.** Reconstrução sem os atalhos do simulador, com a decisão modelada como triagem sob capacidade finita.
+`LightGBM` · `Streamlit`
 
 ---
 
