@@ -22,7 +22,7 @@ AI Engineer é quem junta quatro coisas: entende de **dado**, entende de **backe
 
 Abaixo está a evidência de cada um dos quatro, com número. Depois, os projetos.
 
-Finalizando pós-graduação em Ciência de Dados e cursando formação em AI Software Engineering.
+Finalizando pós-graduação em Ciência de Dados (UniCesumar) e cursando a Formação AI Software Engineer 4.0 (Data Science Academy).
 
 📍 Maringá, Paraná &middot; Brasil
 
