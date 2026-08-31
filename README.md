@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>AI Engineer</strong> &middot; recuperação &middot; avaliação &middot; serving &middot; contratos de dados
+  <strong>AI Engineer</strong> &middot; dados &middot; backend &middot; negócio &middot; LLM no produto
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 ~/ whoami
 ```
 
-Construo **os sistemas em volta do modelo**: recuperação, avaliação, serving e os contratos de dados que impedem tudo de apodrecer em silêncio. Montar um RAG é trabalho de uma tarde. Responder se dá para confiar nele é o trabalho.
+AI Engineer é quem junta quatro coisas: entende de **dado**, entende de **backend**, entende do **negócio**, e usa isso para colocar **LLM dentro do produto** de forma eficiente. Modelo é a parte fácil. O que decide se o sistema serve para alguma coisa é o que existe em volta dele.
 
-Essa é a metade do problema que a maioria dos projetos pula, e é onde eu escolhi ficar.
+Abaixo está a evidência de cada um dos quatro, com número. Depois, os projetos.
 
 Finalizando pós-graduação em Ciência de Dados e cursando formação em AI Software Engineering.
 
@@ -29,21 +29,49 @@ Finalizando pós-graduação em Ciência de Dados e cursando formação em AI So
 ---
 
 ```bash
-~/ grep -r "competência" --evidência
+~/ cat pilares/negocio.md
 ```
 
-| O que a área pede | Onde está, e o número |
-|---|---|
-| **Recuperação (RAG)** | Híbrida BM25 + E5 multilíngue, com fusão RRF sobre **posição** em vez de score: MRR **0,644** contra 0,361 do léxico puro, recall@1 de 0,133 para **0,533** |
-| **Avaliação de sistemas de IA** | Conjunto dourado escrito à mão para evitar circularidade, harness de três blocos, **47 testes**. Contaminação de contexto medida: **80% das perguntas** entregam norma revogada ao modelo |
-| **Chunking com propósito** | Segmentação por artigo porque é o que **torna a avaliação possível**. Sem a etiqueta do dispositivo no chunk, não há como cruzar citação com estado de vigência |
-| **Serving e resiliência** | Limitador de taxa próprio, backoff exponencial para 503/500, medição de tokens, latência e custo por chamada. Rodada com erro é descartada, não reportada |
-| **Saída estruturada e auditabilidade** | Citação obrigatória por afirmação, em campos separados. É o que transforma "conforme a Resolução X" em algo verificável por programa |
-| **Contratos e qualidade de dados** | **71 checks** emitidos automaticamente de 26 colunas, com teste de duas proporções, correção de Bonferroni e piso de efeito prático contra alarme falso |
-| **Monitoramento e drift** | PSI e CSI com o alarme **testado contra safra deteriorada**. O achado publicado foi que o PSI agregado **não** disparou |
-| **Decisão sob restrição real** | Fila de revisão sob capacidade finita, ordenada por valor em risco: **77% do valor fraudado** barrado revisando **0,11%** do tráfego |
-| **Engenharia de software** | `pytest` em quatro repositórios, CLI empacotada com `pyproject`, FastAPI + React 19 + TypeScript, SBOM CycloneDX e inventário de licenças de terceiros |
-| **Performance de dados** | Três camadas de leitura sobre Parquet: **5M × 26 colunas em 4,8 s com 261 MB** de pico, com memória plana enquanto o dado cresce 50x |
+**A decisão que muda, não a métrica que sobe.** É a diferença entre um modelo que funciona e um sistema que vale dinheiro.
+
+- **+24% de resultado na carteira de teste com o mesmo modelo e a mesma AUC.** Trocar o corte de 0,50 pelo break-even econômico, que sai de duas constantes de negócio e não olha uma linha do dataset. O corte analítico ganhou do ótimo procurado por varredura, que pegou ruído da amostra.
+- **77% do valor fraudado barrado revisando 0,11% do tráfego.** A mesa de análise revisa um número fixo de alertas por dia, então a pergunta não é qual o corte, é quais transações entram na fila. Ordenar por valor em risco pega menos fraudes e salva mais dinheiro, e um painel de recall registraria isso como piora.
+- **Erro abaixo de 2% na estimativa da base de alunos**, 499 mil previstos contra 509 mil realizados, sustentando decisão de planejamento acadêmico na Vitru Educação.
+- **Auditoria de paridade publicada inclusive onde ela reprova**, com o grupo até 25 anos em 0,767, abaixo da regra dos 4/5. Atributos protegidos deliberadamente fora das features.
+
+```bash
+~/ cat pilares/dados.md
+```
+
+**O dado que alimenta o sistema, e o contrato que impede ele de apodrecer.**
+
+- **5M de linhas por 26 colunas em 4,8 s com 261 MB de pico**, memória plana enquanto o dado cresce 50x. Três camadas de leitura sobre Parquet com DuckDB e PyArrow.
+- **71 checks emitidos automaticamente** de 26 colunas, com teste de duas proporções, correção de Bonferroni e piso de efeito prático contra alarme falso.
+- **Defeitos ranqueados por impacto na decisão, não por prevalência.** O defeito em 7º por prevalência sobe para 3º por impacto; o 4º inverte exatamente zero decisões.
+- **Integração e rastreabilidade de múltiplos sistemas corporativos** em SQL Server e Python, no dia a dia da Vitru Educação.
+
+```bash
+~/ cat pilares/backend.md
+```
+
+**O sistema que serve, com teste, contrato de interface e resiliência.**
+
+- **FastAPI + React 19 + TypeScript** em sistema de otimização em operação, com dois solvers isolados por design: a aba de cenários não consegue sobrescrever a rodada publicada.
+- **`pytest` em quatro repositórios**, CLI empacotada com `pyproject`, SBOM CycloneDX e inventário de licenças de terceiros.
+- **Limitador de taxa próprio, backoff exponencial para 503 e 500**, com medição de tokens, latência e custo por chamada. Rodada com erro é descartada, não reportada.
+- **Docker** e pipeline reprodutível de um clone limpo, sem artefato binário versionado.
+
+```bash
+~/ cat pilares/llm_no_produto.md
+```
+
+**LLM aplicado, e medido, que é a metade que a maioria dos projetos pula.**
+
+- **Recuperação híbrida BM25 + E5 multilíngue com fusão RRF sobre posição**, elevando o MRR de 0,361 do léxico puro para 0,644 e o recall@1 de 0,133 para 0,533.
+- **Contaminação de contexto medida em 80% das perguntas**, num corpus onde 44,6% dos normativos estão revogados. Nenhuma métrica de similaridade acusa isso.
+- **Saída estruturada com citação obrigatória por afirmação**, em campos separados, que é o que torna a auditoria de vigência verificável por programa.
+- **Chunking com propósito de avaliação**: segmentar por artigo é o que permite cruzar a citação da resposta com o estado de vigência do dispositivo.
+- **Gemini em produto self-service** que explora dataset, recomenda KPIs e responde em linguagem natural, com fallback que mantém os gráficos de pé quando a API cai.
 
 ---
 
@@ -103,7 +131,7 @@ Audita o benchmark e reconstrói sem os atalhos: a PR-AUC honesta cai de 1,000 p
 ~/ cat principios.txt
 ```
 
-O que se repete nos quatro projetos acima não é o stack. É o hábito de publicar o número que incomoda:
+O que se repete nos projetos acima não é o stack. É o hábito de publicar o número que incomoda:
 
 - A geração do RAG **não tem métrica publicada**, porque a cota gratuita corrompeu a bateria. Métrica calculada sobre resposta que nunca chegou parece resultado, e é pior que métrica nenhuma.
 - O contrato de validação **reprovava a base que o gerou**. O bug virou invariante: `emit` agora se recusa a gravar contrato que não passa na própria referência.
@@ -118,7 +146,7 @@ Sistema que não sabe dizer quando está errado não está pronto, e é essa cam
 ~/ cat skills.txt
 ```
 
-**AI &amp; LLM**
+**LLM no produto**
 <p>
   <img src="https://img.shields.io/badge/Python-06152E?style=flat-square&logo=python&logoColor=FF6A45" />
   <img src="https://img.shields.io/badge/RAG-06152E?style=flat-square" />
@@ -129,25 +157,32 @@ Sistema que não sabe dizer quando está errado não está pronto, e é essa cam
   <img src="https://img.shields.io/badge/Eval_Harness-06152E?style=flat-square" />
 </p>
 
-**Backend &amp; Systems**
+**Backend**
 <p>
   <img src="https://img.shields.io/badge/FastAPI-123F8F?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React_19-123F8F?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-123F8F?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-123F8F?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/DuckDB-123F8F?style=flat-square&logo=duckdb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyArrow-123F8F?style=flat-square" />
+  <img src="https://img.shields.io/badge/pytest-123F8F?style=flat-square&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/OR--Tools_(CP--SAT)-123F8F?style=flat-square" />
 </p>
 
-**Machine Learning**
+**Dados**
 <p>
-  <img src="https://img.shields.io/badge/LightGBM-06152E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-06152E?style=flat-square&logo=scikitlearn&logoColor=FF6A45" />
-  <img src="https://img.shields.io/badge/XGBoost-06152E?style=flat-square" />
-  <img src="https://img.shields.io/badge/SHAP-06152E?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL_Server-06152E?style=flat-square&logo=microsoftsqlserver&logoColor=FF6A45" />
+  <img src="https://img.shields.io/badge/DuckDB-06152E?style=flat-square&logo=duckdb&logoColor=FF6A45" />
+  <img src="https://img.shields.io/badge/PyArrow-06152E?style=flat-square" />
   <img src="https://img.shields.io/badge/Pandas-06152E?style=flat-square&logo=pandas&logoColor=FF6A45" />
-  <img src="https://img.shields.io/badge/pytest-06152E?style=flat-square&logo=pytest&logoColor=FF6A45" />
+  <img src="https://img.shields.io/badge/Data_Contracts-06152E?style=flat-square" />
+</p>
+
+**Negócio e decisão**
+<p>
+  <img src="https://img.shields.io/badge/LightGBM-FF6A45?style=flat-square&labelColor=06152E&color=06152E" />
+  <img src="https://img.shields.io/badge/TreeSHAP-06152E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Custo_de_erro_assim%C3%A9trico-06152E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Drift_(PSI%2FCSI)-06152E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power_BI-06152E?style=flat-square&logo=powerbi&logoColor=FF6A45" />
 </p>
 
 ---
