@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  <a href="https://guilhermehrsilva.github.io"><strong>guilhermehrsilva.github.io</strong></a>
+</p>
+
+<p align="center">
   <sub>Aberto a vagas de <strong>AI Engineer</strong> &middot; remoto ou Maringá/PR &middot; <a href="https://www.linkedin.com/in/guilhermerisson/">falar comigo no LinkedIn</a></sub>
 </p>
 
@@ -61,7 +65,7 @@ Finalizando pós-graduação em Ciência de Dados (UniCesumar) e cursando a Form
 **O sistema que serve, com teste, contrato de interface e resiliência.**
 
 - **FastAPI + React 19 + TypeScript** em sistema de otimização em operação, com dois solvers isolados por design: a aba de cenários não consegue sobrescrever a rodada publicada.
-- **`pytest` em quatro repositórios**, CLI empacotada com `pyproject`, SBOM CycloneDX e inventário de licenças de terceiros.
+- **`pytest` em cinco repositórios**, CLI empacotada com `pyproject`, SBOM CycloneDX e inventário de licenças de terceiros.
 - **Limitador de taxa próprio, backoff exponencial para 503 e 500**, com medição de tokens, latência e custo por chamada. Rodada com erro é descartada, não reportada.
 - **Docker** e pipeline reprodutível de um clone limpo, sem artefato binário versionado.
 
@@ -93,13 +97,15 @@ Não é um chatbot sobre regulação. É a medição de um. Recuperação híbri
 
 `sentence-transformers` · `rank-bm25` · `RRF` · `Gemini` · `47 testes`
 
-### 🧩 [Teacher Allocation Optimizer](https://github.com/guilhermehrsilva/teacher-allocation-optimizer)
+### 📄 [Procurement Triage Service](https://github.com/guilhermehrsilva/procurement-triage-service)
 
-Sistema full-stack de otimização com CP-SAT em operação: validação de entrada, **dois solvers deliberadamente isolados** (a aba de cenários não consegue sobrescrever a rodada publicada), auditoria por rodada e dashboard React.
+**O verificador não usa LLM: campo extraído só é aceito se o trecho citado existir literalmente no PDF e o valor parseado bater com ele.** É isso que transforma um resultado ruim em informação útil.
 
-Suíte de testes, SBOM CycloneDX e inventário de licenças de terceiros. É a prova de que entrego sistema, não notebook.
+Triagem de editais do PNCP, com fila de leitura ordenada por valor esperado sob capacidade finita. No conjunto dourado de 7 editais rotulados à mão, prazo acertou **2 de 7**: o modelo confunde "abertura da sessão" com "prazo da proposta" mesmo com o prompt proibindo, e a citação correta é justamente o que prova que o erro é de julgamento, não de parsing. Depois da correção de prompt, a resposta errada com confiança virou abstenção com justificativa.
 
-`OR-Tools (CP-SAT)` · `FastAPI` · `React 19` · `TypeScript` · `SBOM`
+300 editais ingeridos, 96,7% com texto extraível sem OCR, orçamento de custo e timeout aplicado no código, US$ 0,028 por edital e p50 de 12,1 s. **Ciclo vermelho→verde demonstrado de verdade**: uma regressão foi reintroduzida de propósito, o portão de CI pegou, o PR seguinte corrigiu.
+
+`FastAPI` · `Docker` · `Gemini` · `GitHub Actions` · `61 testes`
 
 ### 🩺 [Silent Data Defects](https://github.com/guilhermehrsilva/silent-data-defects)
 
@@ -109,11 +115,13 @@ Suíte de testes, SBOM CycloneDX e inventário de licenças de terceiros. É a p
 
 `DuckDB` · `PyArrow` · `CLI empacotada`
 
-### 🤖 [Data Insight AI](https://github.com/guilhermehrsilva/data-insight-ai)
+### 🧩 [Teacher Allocation Optimizer](https://github.com/guilhermehrsilva/teacher-allocation-optimizer)
 
-BI self-service em que o Gemini explora o dataset, recomenda KPIs, gera 30+ tipos de gráfico e responde perguntas de negócio em linguagem natural. Tem modo de fallback que mantém os gráficos de pé quando a API cai.
+Sistema full-stack de otimização com CP-SAT em operação: validação de entrada, **dois solvers deliberadamente isolados** (a aba de cenários não consegue sobrescrever a rodada publicada), auditoria por rodada e dashboard React.
 
-`Gemini` · `Streamlit` · `Plotly`
+Suíte de testes, SBOM CycloneDX e inventário de licenças de terceiros. É a prova de que entrego sistema, não notebook.
+
+`OR-Tools (CP-SAT)` · `FastAPI` · `React 19` · `TypeScript` · `SBOM`
 
 ### 💳 [Credit Risk Decision Engine](https://github.com/guilhermehrsilva/credit-risk-decision-engine)
 
@@ -130,6 +138,12 @@ Reason codes por TreeSHAP exato, atributos protegidos fora das features e audito
 Audita o benchmark e reconstrói sem os atalhos: a PR-AUC honesta cai de 1,000 para 0,406 enquanto a ROC mal se move. A decisão vira triagem sob capacidade finita, onde ordenar por valor em risco pega **menos** fraudes e salva mais dinheiro.
 
 `LightGBM` · `métricas de evento raro` · `18 testes`
+
+### 🤖 [Data Insight AI](https://github.com/guilhermehrsilva/data-insight-ai)
+
+BI self-service em que o Gemini explora o dataset, recomenda KPIs, gera 30+ tipos de gráfico e responde perguntas de negócio em linguagem natural. Tem modo de fallback que mantém os gráficos de pé quando a API cai.
+
+`Gemini` · `Streamlit` · `Plotly`
 
 ---
 
