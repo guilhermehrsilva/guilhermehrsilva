@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/Production_ML-FF6A45?style=flat-square&labelColor=FF6A45&color=FF6A45" alt="Production ML" />
 </p>
 
+<p align="center">
+  <sub>Aberto a vagas de <strong>AI Engineer</strong> &middot; remoto ou Maringá/PR &middot; <a href="https://www.linkedin.com/in/guilhermerisson/">falar comigo no LinkedIn</a></sub>
+</p>
+
 ---
 
 ```bash
@@ -71,6 +75,8 @@ Finalizando pós-graduação em Ciência de Dados (UniCesumar) e cursando a Form
 - **Contaminação de contexto medida em 80% das perguntas**, num corpus onde 44,6% dos normativos estão revogados. Nenhuma métrica de similaridade acusa isso.
 - **Saída estruturada com citação obrigatória por afirmação**, em campos separados, que é o que torna a auditoria de vigência verificável por programa.
 - **Chunking com propósito de avaliação**: segmentar por artigo é o que permite cruzar a citação da resposta com o estado de vigência do dispositivo.
+- **Observabilidade da chamada**: tokens, latência e custo medidos por pergunta, com limitador de taxa próprio e backoff exponencial para 503 e 500. Erro transitório do provedor não vira número no relatório.
+- **Guardrail contra alucinação**: o conjunto dourado inclui pergunta sem resposta no corpus, e a auditoria classifica citação inventada como `inexistente`, separada de norma revogada e de artigo revogado.
 - **Gemini em produto self-service** que explora dataset, recomenda KPIs e responde em linguagem natural, com fallback que mantém os gráficos de pé quando a API cai.
 
 ---
@@ -153,7 +159,11 @@ Sistema que não sabe dizer quando está errado não está pronto, e é essa cam
   <img src="https://img.shields.io/badge/Gemini-06152E?style=flat-square&logo=googlegemini&logoColor=FF6A45" />
   <img src="https://img.shields.io/badge/Sentence--Transformers-06152E?style=flat-square" />
   <img src="https://img.shields.io/badge/BM25_+_RRF-06152E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embeddings-06152E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-06152E?style=flat-square" />
   <img src="https://img.shields.io/badge/Structured_Output-06152E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Guardrails-06152E?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM_Observability-06152E?style=flat-square" />
   <img src="https://img.shields.io/badge/Eval_Harness-06152E?style=flat-square" />
 </p>
 
@@ -164,6 +174,8 @@ Sistema que não sabe dizer quando está errado não está pronto, e é essa cam
   <img src="https://img.shields.io/badge/TypeScript-123F8F?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-123F8F?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/pytest-123F8F?style=flat-square&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-123F8F?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-123F8F?style=flat-square" />
   <img src="https://img.shields.io/badge/OR--Tools_(CP--SAT)-123F8F?style=flat-square" />
 </p>
 
@@ -190,6 +202,8 @@ Sistema que não sabe dizer quando está errado não está pronto, e é essa cam
 ```bash
 ~/ contact --open
 ```
+
+Busco vagas de **AI Engineer**, com preferência por time que leva LLM para produção e se importa com o que acontece depois do deploy. Se é o seu caso, o código e as métricas dos projetos acima estão todos abertos aqui, inclusive os números ruins.
 
 <p>
   <a href="https://www.linkedin.com/in/guilhermerisson/">
