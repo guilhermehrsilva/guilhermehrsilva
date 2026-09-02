@@ -217,7 +217,7 @@ Sistema que não sabe dizer quando está errado não está pronto, e é essa cam
 ~/ contact --open
 ```
 
-Busco vagas de AI Engineer, com preferência por time que leva LLM para produção e se importa com o que acontece depois do deploy. Se é o seu caso, o código e as métricas dos projetos acima estão todos abertos aqui, inclusive os números ruins.
+Busco vagas de AI Engineer.
 
 <p>
   <a href="https://www.linkedin.com/in/guilhermerisson/">
