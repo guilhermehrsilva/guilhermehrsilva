@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>AI Engineer</strong> &middot; dados &middot; backend &middot; negócio &middot; LLM no produto
+  <strong>AI Software Engineer</strong> &middot; LLM &middot; RAG &middot; agentes de IA &middot; Python &middot; FastAPI
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <sub>Aberto a vagas de <strong>AI Engineer</strong> &middot; remoto ou Maringá/PR &middot; <a href="https://www.linkedin.com/in/guilhermerisson/">falar comigo no LinkedIn</a></sub>
+  <sub>Aberto a vagas de <strong>AI Software Engineer</strong> &middot; remoto ou Maringá/PR &middot; <a href="https://www.linkedin.com/in/guilhermerisson/">falar comigo no LinkedIn</a></sub>
 </p>
 
 ---
@@ -26,11 +26,11 @@
 ~/ whoami
 ```
 
-AI Engineer é quem junta quatro coisas: entende de dado, entende de backend, entende do negócio, e usa isso para colocar LLM dentro do produto de forma eficiente. Modelo é a parte fácil. O que decide se o sistema serve para alguma coisa é o que existe em volta dele.
+AI Software Engineer é quem junta quatro coisas: entende de dado, entende de backend, entende do negócio, e usa isso para colocar LLM dentro do produto de forma eficiente. Modelo é a parte fácil. O que decide se o sistema serve para alguma coisa é o que existe em volta dele.
 
 Abaixo está a evidência de cada um dos quatro, com número. Depois, os projetos.
 
-Finalizando pós-graduação em Ciência de Dados (UniCesumar) e cursando a Formação AI Software Engineer 4.0 (Data Science Academy).
+Pós-graduado em Ciência de Dados (UniCesumar), cursando a Formação AI Software Engineer 4.0 (Data Science Academy) e o bacharelado em Engenharia de Software (Uninter).
 
 Maringá, Paraná &middot; Brasil
 
@@ -106,6 +106,14 @@ Triagem de editais do PNCP, com fila de leitura ordenada por valor esperado sob 
 `300` editais ingeridos, `96,7%` com texto extraível sem OCR, orçamento de custo e timeout aplicado no código, `US$ 0,028` por edital e p50 de `12,1 s`. O ciclo vermelho para verde foi demonstrado de verdade: reintroduzi uma regressão de propósito, o portão de CI barrou, o PR seguinte corrigiu.
 
 `FastAPI` · `Docker` · `Gemini` · `GitHub Actions` · `61 testes`
+
+### [TikTok Viral Generator](https://github.com/guilhermehrsilva/tiktok-viral-generator)
+
+Agente de IA que vai do assunto em alta ao vídeo publicado, `4` posts por dia sem intervenção. Vídeo curto gerado por IA costuma ser resumo sem fonte; aqui todo trecho citado precisa existir na página, todo número precisa estar na fonte, e o roteirista aponta o fato por índice.
+
+Radar de `8` fontes, juiz de outra família de modelo com rubrica de `7` critérios e roteador de LLM por estágio e por cota, com JSON Schema estrito. Cerca de `US$ 0,01` de LLM por vídeo e render próprio em ffmpeg de `~20 s`, contra `~5,5 min` da ferramenta que substituiu.
+
+`Pydantic` · `OpenRouter` · `Gemini` · `Groq` · `ffmpeg` · `691 testes`
 
 ### [Silent Data Defects](https://github.com/guilhermehrsilva/silent-data-defects)
 
@@ -217,7 +225,7 @@ Sistema que não sabe dizer quando está errado não está pronto, e é essa cam
 ~/ contact --open
 ```
 
-Busco vagas de AI Engineer.
+Busco vagas de AI Software Engineer.
 
 <p>
   <a href="https://www.linkedin.com/in/guilhermerisson/">
