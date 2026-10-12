@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>AI Software Engineer</strong> &middot; LLM &middot; RAG &middot; agentes de IA &middot; Python &middot; FastAPI
+  <strong>AI Software Engineer</strong> &middot; backend &amp; dados &middot; Python &middot; FastAPI &middot; SQL &middot; LLM
 </p>
 
 <p align="center">
