@@ -26,11 +26,11 @@
 ~/ whoami
 ```
 
-AI Software Engineer é quem junta quatro coisas: entende de dado, entende de backend, entende do negócio, e usa isso para colocar LLM dentro do produto de forma eficiente. Modelo é a parte fácil. O que decide se o sistema serve para alguma coisa é o que existe em volta dele.
+AI Software Engineer é quem junta quatro coisas: entende de dado, entende de backend, entende do negócio, e usa isso para colocar LLM dentro do produto de forma eficiente.
 
 Abaixo está a evidência de cada um dos quatro, com número. Depois, os projetos.
 
-Pós-graduado em Ciência de Dados (UniCesumar), cursando a Formação AI Software Engineer 4.0 (Data Science Academy) e o bacharelado em Engenharia de Software (Uninter).
+Pós-graduado em Ciência de Dados (UniCesumar), bacharelado em Engenharia Civil (UNIFAI), cursando a Formação AI Software Engineer 4.0 (Data Science Academy) e o bacharelado em Engenharia de Software (Uninter).
 
 Maringá, Paraná &middot; Brasil
 
