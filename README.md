@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://guilhermehrsilva.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-06152E?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/guilhermerisson/"><img src="https://img.shields.io/badge/LinkedIn-123F8F?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://guilhermehrsilva.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-123F8F?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/guilhermerisson/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:guilherme.risson@outlook.com"><img src="https://img.shields.io/badge/Email-FF6A45?style=flat-square&logo=maildotru&logoColor=white" /></a>
 </p>
 
